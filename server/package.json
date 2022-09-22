@@ -22,9 +22,7 @@
     "fastify-cli": "^5.4.2",
     "fastify-plugin": "^4.0.0",
     "graphql": "^16.6.0",
-    "mercurius": "^11.0.0",
-    "pg": "^8.8.0",
-    "typeorm": "^0.3.10"
+    "mercurius": "^11.0.0"
   },
   "devDependencies": {
     "eslint": "^8.23.1",
