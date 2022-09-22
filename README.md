@@ -2,12 +2,17 @@
 
 client (react/apollo/eslint)
 
-```shell script
-git clone
+1)```shell script
+git clone https://github.com/E1ford/test_graphql-client-server-.git
 ```
-### Launch
-
-```shell script
+2)start server ```shell script
+cd ./server
+npm i 
 npm run dev
 ```
-
+3) add new console window
+4)start client ```shell script
+cd ./client
+npm i 
+npm run start
+```
