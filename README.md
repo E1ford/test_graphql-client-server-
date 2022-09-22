@@ -11,6 +11,7 @@ npm i
 npm run dev
 ```
 3) add new console window
+
 4)start client ```shell script
 cd ./client
 npm i 
